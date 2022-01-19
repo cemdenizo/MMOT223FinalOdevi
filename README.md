@@ -1,6 +1,17 @@
 # MMOT223 Final Ödevi Dökümantasyonu
 ## Grup Üyeleri:
-![ekip](https://drive.google.com/uc?export=view&id=1FbO1EvGYAAAvNWumVvaYAbtoCQ_uLVdO)
+1. Fatma Yıldız Akçiçek
+2. Uğur Can Göker
+3. Batuhan Caner Şimşek
+4. Ebrar Gül
+5. Yusuf Taha Günay
+6. Kerem Zakout
+7. Halil İbrahim Okumuş
+8. Batur Yüceal
+9. Emircan Çetinkaya
+10. Deniz Önalp
+11. Berke Abike
+12. Berkcan ...
 ## Ödev Konusu:
  Proje kapsamında oluşturulan ML.NET projesi  referans alınarak "WEB, Windows Form yada Console" uygulamasından biri üzerinden proje uygun bir arayüzle modellenecektir Proje kapsamında kodlarınız Github üzerinden yayınlacak ve github linki Olearn den teslim edilecektir Proje içinde readme.md dosyası yer alacak içinde proje mimarisi, dosya yapısı ve kapsamı özetlenecektir
 ## Orjinal Dataset
