@@ -2,7 +2,7 @@
 ## Grup Üyeleri:
 ![ekip](https://drive.google.com/uc?export=view&id=1FbO1EvGYAAAvNWumVvaYAbtoCQ_uLVdO)
 ## Ödev Konusu:
-#### Proje kapsamında oluşturulan ML.NET projesi  referans alınarak "WEB, Windows Form yada Console" uygulamasından biri üzerinden proje uygun bir arayüzle modellenecektir Proje kapsamında kodlarınız Github üzerinden yayınlacak ve github linki Olearn den teslim edilecektir Proje içinde readme.md dosyası yer alacak içinde proje mimarisi, dosya yapısı ve kapsamı özetlenecektir
+ Proje kapsamında oluşturulan ML.NET projesi  referans alınarak "WEB, Windows Form yada Console" uygulamasından biri üzerinden proje uygun bir arayüzle modellenecektir Proje kapsamında kodlarınız Github üzerinden yayınlacak ve github linki Olearn den teslim edilecektir Proje içinde readme.md dosyası yer alacak içinde proje mimarisi, dosya yapısı ve kapsamı özetlenecektir
 ## Orjinal Dataset
 https://www.kaggle.com/irkaal/english-premier-league-results/code
 https://github.com/burakodaloglu/Dataset
