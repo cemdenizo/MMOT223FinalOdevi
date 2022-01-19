@@ -11,7 +11,7 @@
 9. Emircan Çetinkaya
 10. Deniz Önalp
 11. Berke Abike
-12. Berkcan ...
+12. Berkcan Karabulut
 ## Ödev Konusu:
  Proje kapsamında oluşturulan ML.NET projesi  referans alınarak "WEB, Windows Form yada Console" uygulamasından biri üzerinden proje uygun bir arayüzle modellenecektir Proje kapsamında kodlarınız Github üzerinden yayınlacak ve github linki Olearn den teslim edilecektir Proje içinde readme.md dosyası yer alacak içinde proje mimarisi, dosya yapısı ve kapsamı özetlenecektir
 ## Orjinal Dataset
