@@ -1,4 +1,4 @@
-# MNOT223 Final Ödevi Dökümantasyonu
+# MMOT223 Final Ödevi Dökümantasyonu
 ## Grup Üyeleri:
 ![ekip](https://drive.google.com/uc?export=view&id=1FbO1EvGYAAAvNWumVvaYAbtoCQ_uLVdO)
 ## Ödev Konusu:
@@ -22,6 +22,7 @@ ML.NET "Value Prediction" senaryosu kullanıldı. HomeShot Column to predict ola
 ML.NET "Value Prediction" senaryosu kullanıldı. HomeShot, "Column to predict" olarak seçildi. Modelin tahmin gücü olan RSquared ölçüsü **0.42** olarak çıktı. Farklı sütun seçildiğinde tahmin gücü daha düşük çıktı.
 ## Model Consumption
 ML.NET in oluşturduğu modeli Visual Studio 2019 ile **ASP.NET Core Web Application**(Model-View-Controller) kullanarak çalışır hale getirdik. Ayrıca **Microsoft IIS(Internet Information Services)** kullanılarak bir web sunucusu yaratılmıştır.
+ML.NET "Value Prediction" senaryosu kullanıldı. HomeShot, "Column to predict" olarak seçildi. Modelin tahmin gücü olan RSquared ölçüsü 0.42 olarak çıktı. Farklı sütun seçildiğinde tahmin gücü daha düşük çıktı.
 ## Gelişme Alanları
 - Modelin RSquare ölçüsü arttırılmalı -> Dataset geliştirilmeli
 - Farklı ülkelerin lig dataları ile modeli "train" edilmeli
